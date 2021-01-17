@@ -1,0 +1,8 @@
+has:18
+hel:9
+has:18
+
+qwe:7
+zxc:9
+two:7
+AAA:34
